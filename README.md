@@ -1,5 +1,14 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-black.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-white.png">
+    <img alt="akaguyver: honeycomb logo with trend bot, notebook transcriber, Sortovia, Xbox apps, DJ and home automation icons" src="assets/banner-white.png" width="100%">
+  </picture>
+</p>
 
-# Hi there
+## About me
+
+Designing and engineering solutions you can count on. I bring a builder's mindset from years of carpentry, trim and cabinets, low voltage and home automation to software: plan it right, build it solid and make it work every time.
 
 I build practical software that solves real problems, and I test it on the hardware it has to run on.
 
@@ -18,7 +27,16 @@ The [engineering notes](https://github.com/sortovia/sortovia/blob/main/DEVELOPME
 
 I built Sortovia with [Claude Code](https://claude.com/claude-code), an AI coding tool, as a development partner. I set the direction, tested it on real hardware, and drove the fixes from what I found.
 
+## Other projects
+
+| | Project | What it does |
+|---|---|---|
+| 📈 | **Trend Bot** | Python crypto bot that goes long on uptrends and short on downtrends, using TradingView-style indicators converted from Pine Script. |
+| 📓 | **Notebook Transcriber** | Turns handwritten notebook pages into text. Built with Claude Code running in Termux on Android. |
+| 🎮 | **Xbox Apps** | More native Xbox apps planned. |
+| 🎧 | **DJ / Turntables** | I DJ and keep my music library in Kodi. |
+| 🏠 | **Home Automation** | Smart-home and low-voltage systems from my construction work. |
+
 ## Skills
 
 Python · Java · Android · Bash · Git and GitHub Actions · Kodi add-ons · WebDAV · automated testing
-
