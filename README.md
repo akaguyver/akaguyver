@@ -34,7 +34,7 @@ I built Sortovia with [Claude Code](https://claude.com/claude-code), an AI codin
 | 📈 | **Trend Bot** | Python crypto bot that goes long on uptrends and short on downtrends, using TradingView-style indicators converted from Pine Script. |
 | 📓 | **Notebook Transcriber** | Turns handwritten notebook pages into text. Built with Claude Code running in Termux on Android. |
 | 🎮 | **Xbox Apps** | More native Xbox apps planned. |
-| 🎧 | **DJ / Turntables** | I DJ and keep my music library in Kodi. |
+| 🎧 | **DJ / Turntables** | The Sortovia Android app (APK) includes a full-featured turntable with automix that uses real DJ-style transitions. It also has genre lookup from multiple sources, a full tag editor, phrase analysis, beatgrid editing, key detection and export to a Rekordbox XML file. |
 | 🏠 | **Home Automation** | Smart-home and low-voltage systems from my construction work. |
 
 ## Skills
